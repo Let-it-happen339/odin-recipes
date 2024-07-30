@@ -1,0 +1,1 @@
+Hi, I'm new to the odin project and this is my first project ever. 
